@@ -2,6 +2,9 @@
 
 <!--
 **Manuelshub/Manuelshub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a dedicated and passionate Software Engineer👨‍💻📗 in the making with a keen interest and passion for the revolutionary technology of blockchain🔗🚀. 
+I am driven by my desire to explore the potential of decentralised systems, smart contract🤝 and cryptocurrencies to transform various industries and enhance security🔐, transparency and efficiency
+Through continous learning📒 and staying updated with the latest technological advancements⚙♨, I am committed to the growth and adoption of this disruptive innovation.
 
 Here are some ideas to get you started:
 
