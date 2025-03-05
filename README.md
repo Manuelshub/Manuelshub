@@ -1,8 +1,8 @@
-## Hi there 👋
+# Hi there 👋
 
-<h4>I am a dedicated and passionate Software Engineer👨‍💻📗 with a keen interest and passion for the revolutionary technology of blockchain🔗🚀. I am driven by my desire to explore the potential of decentralised systems, smart contract🤝 and cryptocurrencies to transform various industries and enhance security🔐, transparency and efficiency Through continous learning📒 and staying updated with the latest technological advancements⚙♨, I am committed to the growth and adoption of this disruptive innovation.</h4>
+<h3>I am a dedicated and passionate Software Engineer👨‍💻📗 with a keen interest and passion for the revolutionary technology of blockchain🔗🚀. I am driven by my desire to explore the potential of decentralised systems, smart contract🤝 and cryptocurrencies to transform various industries and enhance security🔐, transparency and efficiency Through continous learning📒 and staying updated with the latest technological advancements⚙♨, I am committed to the growth and adoption of this disruptive innovation.</h3>
 <p>A passionate Software/Protocol Engineer</p>
-<h3>🚀 Languages and Tools I Use</h3>
+<h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
