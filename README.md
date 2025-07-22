@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/6b935284-0a7d-4877-b5f6-39fa619be3b3)
+
 # Hi there 👋
 
 <h3>I am a dedicated and passionate Software Engineer👨‍💻📗 with a keen interest and passion for the revolutionary technology of blockchain🔗🚀. I am driven by my desire to explore the potential of decentralised systems, smart contract🤝 and cryptocurrencies to transform various industries and enhance security🔐, transparency and efficiency Through continous learning📒 and staying updated with the latest technological advancements⚙♨, I am committed to the growth and adoption of this disruptive innovation.</h3>
